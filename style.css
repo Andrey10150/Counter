@@ -54,9 +54,5 @@ p {
 }
 
 .btn:active {
-    border: none;
-}
-
-.btn:visited {
-    border: none;
+    outline: none;
 }
