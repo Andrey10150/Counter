@@ -52,3 +52,7 @@ p {
 .btn:hover {
     box-shadow: 4px 8px 5px #00adb5;
 }
+
+.btn:active {
+    border: none;
+}
