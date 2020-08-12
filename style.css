@@ -43,6 +43,7 @@ p {
     font-size: 1.25rem;
     color: white;
     border-radius: 9px;
+    cursor: pointer;
     user-select: none;
     -moz-user-select: none;
     -webkit-user-select: none;
