@@ -36,6 +36,14 @@ p {
     text-align: center;
 }
 
+button {
+  border: none;
+}
+
+button:focus {
+  outline-width: 0;
+}
+
 .btn {
     border: none;
     display: block;
@@ -54,7 +62,4 @@ p {
 
 .btn:hover {
     box-shadow: 4px 8px 5px #00adb5;
-}
-.btn:focus {
-    outline: none;
 }
